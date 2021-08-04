@@ -1,8 +1,6 @@
 /** 
  * Name: Matthew Bernard
- * ID: A16595017
  * Email: mibernar@ucsd.edu
- * Sources used: None
  * 
  * This program describes a petridish which can hold all the cells
  * described by the other classes. This class does not inherit anything.
@@ -383,10 +381,10 @@ public class PetriDish {
     }
 
 
-    //public void simulate() {}
+  
 
 
-    
+    //This is the main driver of the program
     public static void main(String[] args) {
 
        
